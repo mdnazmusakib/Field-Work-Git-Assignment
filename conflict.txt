@@ -1,1 +1,2 @@
 conflict feature form B
+conflict in A
